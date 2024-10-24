@@ -6,6 +6,7 @@ public class Hola {
 
 		System.out.println("Soy Javier Castillo Luque");
 		System.out.println("Hola mi nombre es Gabriel");
+		System.out.println("Hola mi nombre es Juan");
 		
 
 	}
