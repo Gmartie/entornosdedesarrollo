@@ -9,6 +9,7 @@ public class Hola {
 		System.out.println("Hola mi nombre es Juan");
 		System.out.println("Hola mi nombre es Manolo. Ya podéis descargar los cambios. No olvidéis documentar el proceso con capturas.");
 		System.out.println("Cambio hecho por Javier");
+		System.out.println("Cambio hecho por Gabriel");
 	}
 
 }
